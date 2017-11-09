@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { Globals  } from './global.ts';
+import { Globals  } from './global';
 import { Router, CanActivate, ActivatedRouteSnapshot, RouterStateSnapshot } from '@angular/router';
 
 @Component({
