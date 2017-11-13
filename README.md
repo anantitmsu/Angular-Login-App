@@ -13,5 +13,11 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Screenshots
 
-
+### Login 
 ![Alt text](/Login.png?raw=true "Login")
+
+### Register
+![Alt text](/Register.png?raw=true "Register")
+
+### Admin
+![Alt text](/Admin.png?raw=true "Admin")
